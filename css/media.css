@@ -1,0 +1,97 @@
+/* laptop/desktop */
+ @media (max-width: 1199px){
+}
+/* laptop/desktop */
+/* large device */
+ @media (max-width: 991px){
+}
+/* large device */
+/* medium device*/
+ @media (max-width: 767px){
+}
+/* medium device */
+/* small device */
+ @media (max-width: 575px){
+     header .logo {
+         font-size: 1.7em;
+    }
+     .top-header ul li {
+         font-size: 12px;
+    }
+     .top-header ul li a {
+         font-size: 12px;
+    }
+     .top-header ul li a {
+         font-size: 12px;
+         padding-left: 0px;
+    }
+     header ul li {
+         font-size: 14px;
+    }
+     .banner-content h1 {
+         font-size: 30px;
+    }
+     .banner-content .btn-custom {
+         font-size: 12px;
+         font-weight: 100;
+         border-radius: 0%;
+         padding: 8px 15px;
+    }
+     .collection-section h1 {
+         margin-top: 60px;
+         font-size: 24px;
+         margin-bottom: 10px;
+    }
+     .collection-section p {
+         font-size: 14px;
+    }
+     .gallery {
+         margin-top: 10px;
+         margin-bottom: 50px;
+    }
+     .gallery h3 {
+         font-size: 15px;
+         margin-bottom: 15px;
+    }
+     .gallery img {
+         margin-bottom: 20px;
+    }
+     .gallery .btn-custom {
+         font-size: 11px;
+         padding: 7px 15px;
+         margin-top: 20px;
+    }
+     .animation-img {
+         margin-bottom: 30px;
+    }
+     .october-heading h1 {
+         font-size: 20px;
+         margin-bottom: 35px;
+    }
+     .add-to-cart img {
+         width: 100%;
+         max-height: 100%;
+    }
+     .add-to-cart h3 {
+         margin-top: 25px;
+         font-size: 15px;
+    }
+     .add-to-cart h5 {
+         font-size: 14px;
+         position: relative;
+    }
+     .footer {
+         margin-top: 50px;
+         padding: 30px;
+    }
+     .footer h3 {
+         font-size: 16px;
+         margin-bottom: 5px;
+    }
+     .footer .btn-custom {
+         font-size: 12px;
+         padding: 5px 15px;
+         margin-bottom: 20px;
+    }
+}
+/* small device */
